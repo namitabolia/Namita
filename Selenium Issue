@@ -1,0 +1,6 @@
+unexpected error launching internet explorer.IELaunchURL() returned HRESULT 80070005("Access is denied)
+
+
+I am not able to launch IE browser through selenium. I am using IE11 along with selenium 2.46.
+
+Please note I cannot check/uncheck the settings of enabled protected mode in my company because of security reasons.
